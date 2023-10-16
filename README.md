@@ -3,7 +3,6 @@
 Discription:
 This HTML and CSS code create a simple webpage with two "eyes" that follow the mouse cursor. The eyes are styled to appear as white circles with black pupils that move in response to the mouse's position. The JavaScript code tracks the mouse movement and updates the position of the pupils accordingly.
 
-Here's a brief 7-line description:
 
 HTML Structure: Defines a webpage with two eyes using HTML5 elements and sets the document's title.
 
